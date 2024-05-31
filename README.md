@@ -14,4 +14,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyuuun&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyunnn&layout=compact)
