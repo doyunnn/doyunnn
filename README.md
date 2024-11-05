@@ -19,3 +19,5 @@
   <img src="https://img.shields.io/badge/web3.js-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" />&nbsp
 </div>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyunnn)
